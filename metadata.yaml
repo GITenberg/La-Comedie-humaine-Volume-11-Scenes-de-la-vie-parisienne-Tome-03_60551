@@ -1,0 +1,38 @@
+_repo: La-Comedie-humaine-Volume-11-Scenes-de-la-vie-parisienne-Tome-03_60551
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Balzac, Honoré de
+    aliases:
+    - De Balzac, Honoré
+    - Balzac, H. de (Honoré de)
+    - Balzac, Honore de
+    - Saint-Aubin, Horace de
+    birthdate: 1799
+    deathdate: 1850
+    gutenberg_agent_id: '251'
+    url: http://www.gutenberg.org/2009/agents/251
+    wikipedia:
+    - http://en.wikipedia.org/wiki/Honoré_de_Balzac
+    - http://fr.Wikipedia.org/wiki/Honoré_de_Balzac
+description: ''
+gutenberg_bookshelf:
+- FR Littérature
+- FR Nouveautés
+gutenberg_issued: '2019-10-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60551'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'French literature'
+- !lcc 'PQ'
+- GITenberg
+tableOfContents: La Maison Nucingen -- Pierre Grassou -- Les Secrets de la princesse
+  de Cadignan -- Les Employés ou la Femme supérieure -- Splendeurs et Misères des
+  courtisanes.
+title: "La Comédie humaine - Volume 11\r\nScènes de la vie parisienne - Tome 03"
+url: http://www.gutenberg.org/ebooks/60551
